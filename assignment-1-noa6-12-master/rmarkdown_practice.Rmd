@@ -40,7 +40,8 @@ if (.Platform$OS.type == "unix") {
 subtitle: "GitHub username: `r git_user`"
 ---
 
-<!-- Write your Markdown below this line -->
+# How the Course Works
+The weekly interactive tutorials must be completed by the start of each week. Then each weekly assignment will be due at the end of the week.
 
 
 
