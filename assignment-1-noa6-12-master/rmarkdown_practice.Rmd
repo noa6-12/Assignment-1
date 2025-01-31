@@ -43,6 +43,19 @@ subtitle: "GitHub username: `r git_user`"
 # How the Course Works
 The weekly interactive tutorials must be completed by the start of each week. Then each weekly assignment will be due at the end of the week.
 
+# Course Goals
+By the end of the course, students will be able to:
+
+* Use [Github](https://github.com/) for creating a reproducible research document
+
+  + My Github username is: _noa6_
+
+* Obtain, clean, transform, and visualize a data set using the R programming language.
+
+* Interpret and predict dataset trends using statistical inference and models. 
+
+* Critically examine and interpret statistical claims reported in mass media.
+
 
 
 
